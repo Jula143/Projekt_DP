@@ -8,13 +8,13 @@
 #include <iostream>
 #include <string>
 using namespace std;
- 
+ // Ver 1.1
  
 class ZestawKomputerowy {
  
 private:
 string monitor;
-string procesor;
+string procesor;    
 string grafika;
 string ram;
 string hdd;
